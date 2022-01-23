@@ -1,0 +1,3 @@
+extends type Query {
+    book(id: String): Book
+}
